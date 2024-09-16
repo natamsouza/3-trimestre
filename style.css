@@ -1,6 +1,6 @@
-<style> 
+
  @import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap');
-</style>
+
 
 :root { 
     --bg-color: rgb(243, 178, 243);
@@ -8,4 +8,5 @@
 
 body {
     background-color: var(--bg-color);
+    font-family: "Playwrite CU", cursive;
 }
