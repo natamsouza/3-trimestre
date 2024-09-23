@@ -10,7 +10,7 @@
 
 body {
     background-color: var(--primeira-cor);
-    font-family: "Playwrite CU", cursive;
+    font-family: "Playwrite CU";
 }
 
 h1, h2, h3, h4, h5 {
