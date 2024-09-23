@@ -9,12 +9,13 @@
 }
 
 body {
-    background-color: var(--bg-color);
+    background-color: var(--primeira-cor);
     font-family: "Playwrite CU", cursive;
 }
 
 h1, h2, h3, h4, h5 {
     font-family: 'Monsterrat;
+    color: var(var(--segunda-cor))
 
 }
     
